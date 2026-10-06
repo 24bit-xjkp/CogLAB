@@ -4,4 +4,4 @@ The release page of this repository contains the datasets used in paper "Knowled
 
 IQ dataset collected in 2.4GHz frequency band, including bluetooth, remote control, video transmission and Wi-Fi signals.
 
-Spectrum dataset was synthesized using [TorchSig](https://github.com/TorchDSP/torchsig), including OFDM-64, 16QAM, 2FSK, FM, QPSK and LoRa signals.
+Spectrum dataset was synthesized using [TorchSig](https://github.com/TorchDSP/torchsig), including OFDM-64, 16QAM, 2FSK, FM, QPSK and CSS signals.
